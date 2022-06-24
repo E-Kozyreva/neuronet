@@ -1,1 +1,3 @@
 # Neuronet
+Languages:
+- python.
